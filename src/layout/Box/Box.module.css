@@ -1,0 +1,10 @@
+.box{
+    height: 100vh;
+}
+
+.info {
+    display: inline-block;
+    position: relative;
+    font-size: 18px;
+    margin-left: 11px;
+}
